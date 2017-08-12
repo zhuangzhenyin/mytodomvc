@@ -1,0 +1,21 @@
+{
+  "name": "03",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "zhuangzhenyin <1269679946@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "store2": "store#^2.5.2",
+    "jquery": "^3.2.1"
+  }
+}
